@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../GameCenter_PA - copia/GameCenter_PA/GameCenter_GUI.csproj" />
+  <Project Path="GameCenter_ADO/GameCenter_ADO.csproj" />
+  <Project Path="GameCenter_BE/GameCenter_BE.csproj" />
+  <Project Path="GameCenter_BL/GameCenter_BL.csproj" />
+</Solution>

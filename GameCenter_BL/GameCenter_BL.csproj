@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <NoWarn>$(NoWarn);NU1902;NU1903</NoWarn>
+	  <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GameCenter_ADO\GameCenter_ADO.csproj" />
+    <ProjectReference Include="..\GameCenter_BE\GameCenter_BE.csproj" />
+  </ItemGroup>
+
+</Project>
